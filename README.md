@@ -8,3 +8,4 @@ Gerador de Jogos pelas mais Sorteadas
 Dezenas Mais Quentes
 Dezenas Mais Frias
 Comparação de Dezenas
+Grafico Mais Sorteadas
